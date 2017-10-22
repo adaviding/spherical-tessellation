@@ -5,12 +5,24 @@ The sphere is tessellated into a hierarchy of equilateral spherical triangles.  
 
   1.  Perform calculations which are unbiased with respect to the location on the sphere's surface.
   2.  Create a geographical index which is efficient for searches based on spherical geomety.  For example:  Select data within 2 degrees of a given coordinate.
-  
-## java (maven)
-No code has been posted yet, but this will be the first codebase to be completed.
 
-## c-sharp
+## status
+My progress on this will be slow.
+
+### java (maven)
+Some of the mathematical code has been posted.
+
+#### code style
+The code style is slightly unorthodox for Java.
+
+* I put the opening curly bracket (`{`) on a new line.
+* I use constants which are `TitleCase` as opposed to `UPPER_CASE` because I think it looks better.
+* The `st-numerics` module  mathematical code, so most of the fields are public (as opposed to private fields with public getters / setters).
+
+Get over it.
+
+### c#
 No code has been posted yet.
 
-## c++
+### c++
 No code has been posted yet.
