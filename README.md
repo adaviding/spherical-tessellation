@@ -12,14 +12,12 @@ My progress on this will be slow.
 ### java (maven)
 Some of the mathematical code has been posted.
 
-#### code style
+#### code style (get over it)
 The code style is slightly unorthodox for Java.
 
+* The `st-numerics` module  mathematical code, so most of the fields are public (as opposed to private fields with public getters / setters).
 * I put the opening curly bracket (`{`) on a new line.
 * I use constants which are `TitleCase` as opposed to `UPPER_CASE` because I think it looks better.
-* The `st-numerics` module  mathematical code, so most of the fields are public (as opposed to private fields with public getters / setters).
-
-Get over it.
 
 ### c#
 No code has been posted yet.
