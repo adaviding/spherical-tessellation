@@ -7,7 +7,7 @@ The sphere is tessellated into a hierarchy of equilateral spherical triangles.  
   2.  Create a geographical index which is efficient for searches based on spherical geomety.  For example:  Select data within 2 degrees of a given coordinate.
 
 ## status
-My progress on this will be slow.
+This is an unfinished project.  Development has halted.
 
 ### java (maven)
 Some of the mathematical code has been posted.

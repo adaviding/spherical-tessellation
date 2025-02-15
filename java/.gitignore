@@ -1,15 +1,5 @@
-# Eclipse
-.classpath
-.project
-.settings/
-
-# Intellij
+# IDE
 .idea/
-*.iml
-*.iws
-
-# Mac
-.DS_Store
 
 # Maven
 log/
